@@ -1,13 +1,15 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta name="google-site-verification" content="7_d_urJwOXIF6xD8vmpqKTlAedoYyiS1IMo6ppkX87k" />
-    <!-- Google Verification -->
-    <meta name="google-site-verification" content="7_d_urJwOXIF6xD8vmpqKTlAedoYyiS1IMo6ppkX87k" />
-
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <title>Darshan Maharaj Quotes – Heartbreak Quote</title>
     <meta name="description" content="Darshan Maharaj quote: 'I was the sun that rose for her every day, yet she bloomed in shadows I could never reach.'">
-    <meta name="keywords" content="Darshan Maharaj quotes, heartbreak quote, emotional quote, sunflower and sun quote, Darshan Maharaj">
-    <meta name="author" content="Darshan Maharaj">
+
+    <!-- Google Tag Manager (Head) -->
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start': new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0], j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-WC6HG5HL');</script>
+    <!-- End Google Tag Manager -->
 
     <style>
         @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@1,700&family=Roboto:wght@400&display=swap');
@@ -59,6 +61,11 @@
     </style>
 </head>
 <body>
+    <!-- Google Tag Manager (Body) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WC6HG5HL"
+    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager -->
+
     <div class="container">
         <div class="quote">“I was the sun that rose for her every day, yet she bloomed in shadows I could never reach.”</div>
         <div class="author">— Darshan Maharaj</div>
