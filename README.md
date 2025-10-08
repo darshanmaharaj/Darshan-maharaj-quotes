@@ -1,10 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Darshan Maharaj Quotes – Heartbreak Quote</title>
-
+    <meta name="google-site-verification" content="7_d_urJwOXIF6xD8vmpqKTlAedoYyiS1IMo6ppkX87k" />
     <!-- Google Verification -->
     <meta name="google-site-verification" content="7_d_urJwOXIF6xD8vmpqKTlAedoYyiS1IMo6ppkX87k" />
 
